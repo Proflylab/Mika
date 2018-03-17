@@ -1,0 +1,17 @@
+c:\users\lefiya\documents\visual studio 2017\Projects\Mika\Mika\bin\Debug\Mika.exe
+c:\users\lefiya\documents\visual studio 2017\Projects\Mika\Mika\bin\Debug\Mika.pdb
+c:\users\lefiya\documents\visual studio 2017\Projects\Mika\Mika\obj\Debug\Mika.csprojResolveAssemblyReference.cache
+c:\users\lefiya\documents\visual studio 2017\Projects\Mika\Mika\obj\Debug\Mika.frmMain.resources
+c:\users\lefiya\documents\visual studio 2017\Projects\Mika\Mika\obj\Debug\Mika.Properties.Resources.resources
+c:\users\lefiya\documents\visual studio 2017\Projects\Mika\Mika\obj\Debug\Mika.csproj.GenerateResource.Cache
+c:\users\lefiya\documents\visual studio 2017\Projects\Mika\Mika\obj\Debug\Mika.exe
+c:\users\lefiya\documents\visual studio 2017\Projects\Mika\Mika\obj\Debug\Mika.pdb
+D:\Tools\backup\Projects#23-08-17\Mika\Mika\bin\Debug\Mika.exe
+D:\Tools\backup\Projects#23-08-17\Mika\Mika\bin\Debug\Mika.pdb
+D:\Tools\backup\Projects#23-08-17\Mika\Mika\obj\Debug\Mika.csprojResolveAssemblyReference.cache
+D:\Tools\backup\Projects#23-08-17\Mika\Mika\obj\Debug\Mika.frmMain.resources
+D:\Tools\backup\Projects#23-08-17\Mika\Mika\obj\Debug\Mika.Properties.Resources.resources
+D:\Tools\backup\Projects#23-08-17\Mika\Mika\obj\Debug\Mika.csproj.GenerateResource.Cache
+D:\Tools\backup\Projects#23-08-17\Mika\Mika\obj\Debug\Mika.csproj.CoreCompileInputs.cache
+D:\Tools\backup\Projects#23-08-17\Mika\Mika\obj\Debug\Mika.exe
+D:\Tools\backup\Projects#23-08-17\Mika\Mika\obj\Debug\Mika.pdb
